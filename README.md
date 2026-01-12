@@ -1,0 +1,1 @@
+This is my test project for learning typescript, vite, zustand, and github copilot.
